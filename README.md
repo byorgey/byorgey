@@ -1,6 +1,6 @@
 ### Brent Yorgey
 
-Open-source Haskell developer (since 2007), educator, blogger, and competitive programmer.
+Open-source Haskell developer (since 2007), researcher, educator, blogger, and competitive programmer.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I5KYUQX)
 
